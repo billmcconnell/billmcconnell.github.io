@@ -1,7 +1,7 @@
 # Bill McConnell
 
 ## Welcome
-to my GitHub It holds the projects created in my MITxPro Full Stack coding bootcamp.
+This Github site holds selected projects created in my MITxPro Full Stack coding bootcamp.
 Browse any of the projects hosted here.
 
 ## Contact
