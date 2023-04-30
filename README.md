@@ -7,5 +7,12 @@ Browse any of the projects hosted here.
 ## Contact
 You can contact me via my MIT profile at https://classroom.emeritus.org/. 
 
-## Licensing
-licensing information will appear here one day
+## Portfolio
+
+<a href="https://billmcconnell.github.io/pacman-factory"> PacMan Factory </a>
+<p>
+<a href="https://billmcconnell.github.io/dos-ojos"> Dos Ojos </a>
+<p>
+<a href="https://billmcconnell.github.io/bustracker"> Bustracker </a>
+
+
